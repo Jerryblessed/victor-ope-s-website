@@ -1,6 +1,6 @@
 ###### <sub> This project needs a ⭐️ from you. Don't forget to leave a star ⭐️. <sub/>
 
-![appLight](/images/victorope portfoilio.png)
+![appLight](https://github.com/Jerryblessed/victor-ope-s-website/blob/main/images/victorope%20portfoilio.png?raw=true)
 
 # [Victor's Portfolio](https://victorope.xyz)
 
