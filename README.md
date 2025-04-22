@@ -2,7 +2,7 @@
 
 ![appLight](https://github.com/Jerryblessed/victor-ope-s-website/blob/main/images/victorope%20portfoilio.png?raw=true)
 
-# [Victor's Portfolio](https://victorope.xyz)
+# [Victor's Portfolio](https://www.victorope.xyz)
 
 **English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
 
