@@ -1,8 +1,8 @@
 ###### <sub> This project needs a ⭐️ from you. Don't forget to leave a star ⭐️. <sub/>
 
-![appLight](/images/Light.png)
+![appLight](/images/victorope portfoilio.png)
 
-# [FlaskBlog](https://dogukanurker.com/flaskblog)
+# [Victor's Portfolio](https://victorope.xyz)
 
 **English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
 
